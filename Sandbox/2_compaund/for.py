@@ -3,7 +3,7 @@
 
 print()
 
-for c in 'hello' :
+for c in 'hello' : #文字列は一文字ずつ取り出す
     print(c)
 
 print()
