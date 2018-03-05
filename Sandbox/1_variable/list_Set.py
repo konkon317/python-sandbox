@@ -29,4 +29,7 @@ print ('x={\'a\':1,\'c\':6}')
 print('x type is ',type(x))
 print(x)
 print(x['c'])
+
+z= 'c'
+print (x[z])
 print()
