@@ -24,7 +24,7 @@ print('x type is ',type(x))
 print(x)
 print()
 
-x={'a':1,'c':6}
+x={'a':1,'c':6}			#辞書　連想配列
 print ('x={\'a\':1,\'c\':6}')
 print('x type is ',type(x))
 print(x)
