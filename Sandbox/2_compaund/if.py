@@ -4,13 +4,14 @@ y=0
 z=0
 
 if x==0 :
-	y=33
-	print('true')
-	print(y)
+    y=33
+    print('true')
+    print(y)
+
 else :
-	z=2
-	print('false')
-	print(z)
+    z=2
+    print('false')
+    print(z)
 
 print ('end')
 
